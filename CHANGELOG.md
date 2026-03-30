@@ -1,3 +1,7 @@
+## v0.1.0 - 2026-03-30
+### Miscellaneous
+- 6c39a60 Initial commit
+
 ## v1.30.0 - 2026-03-02
 ### Miscellaneous
 - 26d348c build(deps): bump hashicorp/setup-terraform from 3 to 4 ([#89](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/pull/89))
